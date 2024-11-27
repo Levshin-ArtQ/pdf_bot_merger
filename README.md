@@ -82,7 +82,7 @@
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/Levshin-ArtQ/pdf_bot_merger/
-   cd your-repo
+   cd pdf_bot_merger
    ```
 2. Установите зависимости:
    ```bash
