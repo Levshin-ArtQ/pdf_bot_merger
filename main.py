@@ -275,7 +275,7 @@ async def show(update: Update, _):
 
 # Main function
 def main() -> None:
-    token = "7502939501:AAFWMFbIYpU-28PPDB0fuIvq_awztRqR2Tc"
+    token = "YOUR_BOT_TOKEN"
     # updater = Updater(token)
     application = Application.builder().token(token).build()
 
